@@ -78,6 +78,9 @@ Este é um jogo do dinossauro (estilo Chrome Dino) com efeitos visuais avançado
 ```bash
 pip install pygame opencv-python numpy
 ```
+```
+pip install -r requirements.txt
+```
 
 2. Execute o jogo:
 ```bash
